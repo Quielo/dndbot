@@ -172,3 +172,8 @@ cython_debug/
 
 # vscode
 .vscode/launch.json
+
+# model
+./models
+# sources
+./source_documents
